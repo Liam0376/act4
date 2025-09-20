@@ -8,7 +8,6 @@ Exercises
    Hint: colormode(255); color(0, 100, 200)
 """
 
-import random
 import turtle
 from freegames import vector
 
